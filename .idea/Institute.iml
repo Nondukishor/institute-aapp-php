@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/mpdf/mpdf" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/setasign/fpdi" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/staempfli/magento2-module-image-resizer" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/mpdf/mpdf" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/setasign/fpdi" />
+          <root url="file://$MODULE_DIR$/../RestureantManagement/vendor/staempfli/magento2-module-image-resizer" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
